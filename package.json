@@ -2,7 +2,7 @@
   "name": "wrtiting-tests-pratice",
   "version": "1.0.0",
   "description": "",
-  "type": "module",	
+  "type": "module",
   "main": "index.js",
   "directories": {
     "test": "tests"
@@ -12,5 +12,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.1.0"
+  }
 }
